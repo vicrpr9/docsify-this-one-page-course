@@ -29,7 +29,7 @@ You can further customize the appearance of your web page by tapping on the **Sh
 Docsify-This Examples
 ---
 
-[Docsify-This One Page Course Template](https://github.com/paulhibbitts/docsify-this-one-page-course/blob/main/home.md), displayed by Docsify-This as a:  
-* [Standalone Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course/main&homepage=home.md "Docsify-This One Page Course")  
-* [Standalone Page with Table of Contents](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course/main&homepage=home.md&toc=true "Docsify-This One Page Course")
-* [Standalone Page with Docsify Sidebar](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course/main&homepage=home.md&sidebar=true "Docsify-This One Page Course")
+[Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md), displayed by Docsify-This as a:  
+* [Standalone Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md "Docsify-This One Page Course")  
+* [Standalone Page with Table of Contents](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true "Docsify-This One Page Course")
+* [Standalone Page with Docsify Sidebar](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&sidebar=true "Docsify-This One Page Course")
